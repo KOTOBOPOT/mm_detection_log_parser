@@ -10,7 +10,9 @@ def read_log(json_path):
 
 
 class LogParser:
-
+    """
+    LogParser gets info from scalars.json
+    """
     def __init__(self, json_path):
         self.json_path = json_path
 

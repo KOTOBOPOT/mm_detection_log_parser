@@ -3,3 +3,5 @@ tests.ipynb
 *.pyc
 результаты НИР/
 save_folder/
+exps/
+model_exps/
